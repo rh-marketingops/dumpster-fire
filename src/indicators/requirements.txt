@@ -1,0 +1,8 @@
+boto3==1.9.49
+docutils==0.14
+luigi==2.8.0
+requests==2.20.1
+pyeloqua==0.5.11
+logmatic-python==0.1.7
+nose==1.3.7
+hela-utils

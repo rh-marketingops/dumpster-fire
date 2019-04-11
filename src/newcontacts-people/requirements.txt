@@ -1,0 +1,9 @@
+boto==2.48.0
+boto3==1.9.49
+luigi==2.8.0
+luigi-slack==0.1.6
+logmatic-python==0.1.7
+pyeloqua==0.5.11
+nose==1.3.7
+psycopg2==2.7.5
+hela-utils

@@ -1,0 +1,4 @@
+flask
+flask-sqlalchemy
+requests==2.20.1
+gunicorn

@@ -1,0 +1,10 @@
+docutils==0.14
+boto3==1.9.49
+luigi==2.8.0
+luigi-slack==0.1.6
+pyeloqua==0.5.11
+prometheus_client==0.0.19
+nose==1.3.7
+requests==2.20.1
+mysql_connector==2.1.6
+hela-utils
