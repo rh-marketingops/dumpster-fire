@@ -1,4 +1,4 @@
-luigi==2.6.1
+luigi==2.8.0
 luigi-slack==0.1.6
 prometheus_client==0.0.19
 pyeloqua==0.5.3
