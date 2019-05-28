@@ -1,5 +1,5 @@
 python-daemon==2.1.2
-luigi==2.7.3
+luigi==2.8.0
 boto==2.48.0
 boto3==1.6.7
 psycopg2==2.7.5
