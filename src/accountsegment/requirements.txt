@@ -1,6 +1,6 @@
 python-daemon==2.1.2
 boto==2.48.0
-luigi==2.7.3
+luigi==2.8.0
 luigi-slack==0.1.6
 logmatic-python==0.1.7
 boto3==1.6.7
